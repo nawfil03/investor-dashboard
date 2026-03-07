@@ -1,0 +1,11 @@
+--- DATA QUALITY AUDIT ---
+Profiles: 107 total.
+Sample valid created_at: 50/50
+Sample Date: 2025-08-07T06:08:43.113708+00:00
+
+Sessions: 89 total.
+Sample valid actual_start: 0/50
+
+Courses: 68 total.
+Sessions with course_id: 31/50
+--------------------------
